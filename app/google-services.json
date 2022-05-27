@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746314618661",
+    "project_id": "iot-luonvuituoi",
+    "storage_bucket": "iot-luonvuituoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746314618661:android:297fa63dc1aa6d5e5caccc",
+        "android_client_info": {
+          "package_name": "com.example.iot_luonvuituoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746314618661-4cgni27h300cghgu63kt8koim0c2a6ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVvRjMTdIyJH22wVpkiaw13_56fOEodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746314618661-4cgni27h300cghgu63kt8koim0c2a6ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
